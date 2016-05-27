@@ -1,4 +1,4 @@
-/*
+
 var myImage=document.querySelector('img');
 
 myImage.onclick=function(){
@@ -30,4 +30,4 @@ myHeading.textContent = 'play ' + storedName;
 myButton.onclick = function() {
   setUserName();
 }
-*/
+
